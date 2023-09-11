@@ -1,8 +1,8 @@
-# learnling-desktop-app
+# learning-desktop-app
 「デスクトップアプリ開発のしくみ」でのお勉強用
 
 ## 翔泳社 公式サイト
-* [Python2年生 デスクトップアプリ開発のしくみ](https://www.shoeisha.co.jp/book/detail/9784798174990)
+* [デスクトップアプリ開発のしくみ](https://www.shoeisha.co.jp/book/detail/9784798174990)
 * [ダウンロード](https://www.shoeisha.co.jp/book/download/9784798174990)
 * [正誤表](https://www.shoeisha.co.jp/book/detail/9784798174990)
   * P.114 
